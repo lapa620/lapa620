@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Murilo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/pierry-savio">
+  <a href="https://github.com/lapa620">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&height=100&lines=Senai+ADS+student,;Frontend+developer,;+Reader+as+a+hobby,;Love+to+learn+new+stuffs;I+love+money+..<3">
   </a>
 </p>
